@@ -1,0 +1,1 @@
+add_library(mission mission.hpp mission.cpp)

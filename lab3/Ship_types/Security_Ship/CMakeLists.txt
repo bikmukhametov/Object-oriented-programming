@@ -1,0 +1,1 @@
+add_library(security_ship security_ship.hpp security_ship.cpp)

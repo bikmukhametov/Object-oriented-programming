@@ -1,0 +1,1 @@
+add_library(guarded_transport_ship guarded_transport_ship.hpp guarded_transport_ship.cpp)

@@ -1,0 +1,1 @@
+add_library(pirate_ship pirate_ship.hpp pirate_ship.cpp)

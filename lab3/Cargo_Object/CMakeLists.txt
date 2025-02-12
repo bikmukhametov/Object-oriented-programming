@@ -1,0 +1,1 @@
+add_library(cargo_object cargo_object.hpp cargo_object.cpp)

@@ -1,0 +1,1 @@
+add_library(military_facility military_facility.hpp military_facility.cpp)
