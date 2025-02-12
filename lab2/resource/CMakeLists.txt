@@ -1,0 +1,1 @@
+﻿add_library(resource resource.h resource.cpp)
